@@ -62,7 +62,10 @@
         display: flex;
         flex-flow: row wrap;
       }
-      
+      .container1{
+        border: solid 1px;
+      }
+
       
         /* Large devices */
     @media (min-width: 992px) {
