@@ -63,7 +63,8 @@
         flex-flow: row wrap;
       }
       .container1{
-        border: solid 1px;
+        border: 1px solid black;
+        
       }
 
       
