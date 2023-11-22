@@ -58,13 +58,14 @@
       .upp{
         text-transform: uppercase;
       }
-      .container{
+      .container1{
         display: flex;
         flex-flow: row wrap;
       }
       .container1{
         border: 1px solid black;
-        
+
+
       }
 
       
