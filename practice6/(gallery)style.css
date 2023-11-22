@@ -8,6 +8,7 @@ h1{
 img{
     display: block;
     margin: auto;
+    width: 100%;
 }
 .cointainer{
     display: flex;
