@@ -13,6 +13,19 @@ img{
     display: flex;
     flex-flow: row wrap;
  }
+.inthisfolder{
+    text-align: center;
+    font-size: 25px;
+}
+.infolder{
+    text-align: center;
+    font-size: 25px;
+}
+.online{
+    text-align: center;
+    font-size: 25px;
+}
+
 /* Large devices */
 @media (min-width: 992px) {
     
