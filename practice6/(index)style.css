@@ -40,7 +40,6 @@ h2{
     }
     .row{
         display: flex;
-        flex: 1;
     }
     .col-lg-1 {
     width: 8.33%;
