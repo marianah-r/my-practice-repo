@@ -89,11 +89,11 @@ text-align: right;
     .col-md-5 {
         flex-basis: 41.66%;
     }
-    .col-md-6 {
-        flex-basis: 50%;
+    .col-md-6 th{
+        font-size: 120%;
     }
-    .col-md-7 {
-        flex-basis: 58.33%;
+    .col-md-7 th{
+        font-size: 110%;
     }
     .col-md-8 {
         flex-basis: 66.66%;
@@ -114,9 +114,6 @@ text-align: right;
     }
     /*Small devices*/
     @media (max-width: 768px) {
-        .row{
-            flex-wrap: wrap;
-        }
     .col-sm-1 {
         flex-basis: 8.33%;
     }
@@ -132,8 +129,8 @@ text-align: right;
     .col-sm-5 {
         flex-basis: 41.66%;
     }
-    .col-sm-6 {
-        flex-basis: 50%;
+    .col-sm-6 th {
+       font-size: 110%;
     }
     
     .col-sm-7 {
