@@ -64,10 +64,25 @@
       }
       .container1{
         border: 1px solid black;
-
-
+background-color: #b2b2fb;
       }
-
+      .container2{
+        border: 1px solid black;
+        background-color: #9e9eff;
+      }
+      .container3{
+        border: 1px solid black;
+        background-color: #6d6dff;
+      }
+.container4{
+    border: 1px solid black;
+    background-color: rgb(70, 70, 255);
+}
+.container5{
+    border: 1px solid black;
+    background-color: #3030fc;
+   
+}
       
         /* Large devices */
     @media (min-width: 992px) {
