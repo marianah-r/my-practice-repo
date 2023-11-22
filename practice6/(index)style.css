@@ -79,7 +79,7 @@ h2{
     /* Medium devices */
     @media (min-width: 768px) and (max-width: 992px) {
         .row{
-            flex: 1 300px;
+            flex: 1 350px;
             display: flex;
             flex-flow: row wrap;
             align-items: center;
