@@ -58,7 +58,7 @@
       .upp{
         text-transform: uppercase;
       }
-      .container1{
+      .container{
         display: flex;
         flex-flow: row wrap;
       }
