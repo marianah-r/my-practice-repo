@@ -1,31 +1,60 @@
-table th, td {
- padding: 10px;
- border:  2px solid;
-text-align: center;
-}
-table {
-margin: auto;
-border-collapse: collapse;
-}
-tbody > tr:nth-child(odd){
-background-color: #7b7b7b;
-}
-h1{
-text-align: center;
-font-size: 22px; 
-}
-.backtomain{
-font-style: italic;
-}
-h2{
-text-align: center;
-}
-.thh{
-text-align: center;
-background-color: green;
-font-weight: 600;
-color: yellow;
-}
-tr td:nth-child(5){
-text-align: right;
-}
+text-decoration: none;
+           background-color: rgb(0, 0, 129);
+           border: 3px solid rgb(8, 8, 52);
+           color: white;
+           display: block;
+           width: 300px;
+           text-align: center;
+           margin-bottom: 1px;
+         }
+         a.mycontent:hover{
+            background-color: magenta;
+            color: rgb(255, 255, 255);
+         }
+         a.mycontent:active{
+            background-color: yellow;
+            color: rgb(255, 0, 0);
+         }
+         .basic{
+         background-color: #b2b2fb;
+         color: rgb(42, 42, 45);
+         }
+        .child{
+            background-color: #9e9eff;
+         color: rgb(37, 31, 31);
+        }
+        .school{
+            background-color: #6d6dff;
+         color: rgb(255, 255, 255);
+        }
+        .outsd{
+            background-color: rgb(70, 70, 255);
+         color: rgb(255, 255, 255);
+        }
+        .uni{
+            background-color: #3030fc;
+         color: rgb(255, 255, 255);
+        }
+        h1{
+            text-align: center;
+            font-size: 22px;
+        }
+        .backtomain{
+            font-style: italic;
+        }
+        #Content{
+            text-align: center;
+        }
+      div{
+    font-size: 120%;
+       }
+       div>h2{
+        font-size: 120%;
+       }
+      .tocontent{
+        font-weight: 600;
+      }
+      .upp{
+        text-transform: uppercase;
+      }
+        
