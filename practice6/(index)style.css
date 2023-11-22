@@ -124,6 +124,9 @@ h2{
     }
     /*Small devices*/
     @media (max-width: 768px) {
+        .row{
+            flex-wrap: wrap;
+        }
     .col-sm-1 {
     width: 8.33%;
     }
