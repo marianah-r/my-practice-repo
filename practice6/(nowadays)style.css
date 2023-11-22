@@ -1,0 +1,25 @@
+.first1{
+   background-color: #7b7b7b;
+}
+.second1{
+   background-color: white;
+}
+li li:nth-child(3){
+   cursor: pointer;
+}
+li li:nth-child(5){
+   cursor: pointer;
+}
+li li:nth-child(4){
+background-color: rgb(147, 255, 53);
+}
+h1{
+   text-align: center;
+   font-size: 22px;
+}
+.backtomain{
+   font-style: italic;
+}
+h2{
+   text-align: center;
+}
