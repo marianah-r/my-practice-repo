@@ -62,6 +62,8 @@
         display: flex;
         flex-flow: row wrap;
       }
+      
+      
         /* Large devices */
     @media (min-width: 992px) {
         
