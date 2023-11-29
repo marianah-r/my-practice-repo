@@ -1,24 +1,12 @@
 .text{
-    margin-left: 20px;
-    margin-right: 20px;
-    margin-bottom: 20px;
-    margin-top: 20px;
     background-color: rgb(255, 110, 173);
     color:rgb(0, 0, 0) ;
 }
 .list{
-    margin-left: 20px;
-    margin-right: 20px;
-    margin-bottom: 20px;
-    margin-top: 20px;
     background-color: rgb(229, 167, 255);
     color:rgb(0, 0, 0) ;
 }
 .table{
-    margin-left: 20px;
-    margin-right: 20px;
-    margin-bottom: 20px;
-    margin-top: 20px;
     background-color: rgb(153, 255, 102);
     color:rgb(0, 0, 0) ;
 }
@@ -33,10 +21,6 @@
       }
 
 .img{
-    margin-left: 20px;
-    margin-right: 20px;
-    margin-bottom: 20px;
-    margin-top: 20px;
     background-color: rgb(255, 167, 167);
     color:rgb(0, 0, 0) ;
 }
