@@ -69,3 +69,9 @@
 h1,h2,h3{
     font-family: 'Hedvig Letters Sans', sans-serif;
 }
+h4{
+    font-family: 'Open Sans', sans-serif;
+}
+p,tr,td,li{
+    font-family: 'Oswald', sans-serif;
+}
