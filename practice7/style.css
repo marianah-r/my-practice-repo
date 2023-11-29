@@ -24,8 +24,17 @@
     border: 2px solid rgb(0, 0, 0);
     background-color: rgb(153, 255, 102);
     color:rgb(0, 0, 0) ;
-
 }
+    table th, td {
+        padding: 10px;
+        border:  2px solid;
+       text-align: center;
+       }
+       table {
+       margin: auto;
+       border-collapse: collapse;
+      }
+
 .img{
     margin-left: 20px;
     margin-right: 20px;
