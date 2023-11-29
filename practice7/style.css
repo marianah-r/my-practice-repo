@@ -46,6 +46,7 @@
 }
 .first{
     background-color: rgb(71, 147, 154);
+    color: rgb(255, 255, 255);
     float: right;
     display: block;
     text-align: center;
@@ -60,6 +61,7 @@
     text-align: center;
     border: 2px solid rgb(0, 0, 0);
     margin: 0;
+    color: brown ;
     }
 
 .third{
@@ -69,6 +71,7 @@
     text-align: center;
     border: 2px solid rgb(0, 0, 0);
     margin: 0;
+    color: black;
     }
 
 .fourth{
@@ -78,4 +81,5 @@
     text-align: center;
     border: 2px solid rgb(0, 0, 0);
     margin: 0;
+    color: beige;
     }
