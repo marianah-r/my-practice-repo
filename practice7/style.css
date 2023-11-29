@@ -4,7 +4,7 @@
     margin-bottom: 20px;
     margin-top: 20px;
     border: 2px solid rgb(0, 0, 0);
-    background-color: rgb(229, 167, 255);
+    background-color: rgb(255, 110, 173);
     color:rgb(0, 0, 0) ;
 }
 .list{
@@ -35,3 +35,38 @@
     background-color: rgb(255, 167, 167);
     color:rgb(0, 0, 0) ;
 }
+h4 :nth-of-type(1){
+    background-color: rgb(71, 147, 154);
+    float: right;
+    display: block;
+    text-align: center;
+    border: 2px solid rgb(0, 0, 0);
+    margin: 0;
+    }
+   
+h4 :nth-of-type(2){
+    background-color: rgb(165, 155, 42);
+    float: right;
+    display: block;
+    text-align: center;
+    border: 2px solid rgb(0, 0, 0);
+    margin: 0;
+    }
+
+h4 :nth-of-type(3){
+    background-color: rgb(255, 165, 56);
+    float: right;
+    display: block;
+    text-align: center;
+    border: 2px solid rgb(0, 0, 0);
+    margin: 0;
+    }
+
+h4 :nth-of-type(4){
+    background-color: rgb(20, 111, 55);
+    float: right;
+    display: block;
+    text-align: center;
+    border: 2px solid rgb(0, 0, 0);
+    margin: 0;
+    }
